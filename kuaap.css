@@ -1,0 +1,134 @@
+.a{
+    width: 1690px;
+    height: px;
+   
+}
+
+.b{
+    direction: rtl;
+    color: #F26E25;
+    
+}
+.c{
+    
+    direction: rtl;
+
+    border-radius: 12px ;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    padding: 20px;
+    max-width: 450px;
+    margin: 30px ;
+    margin-left: auto;
+}
+.azin{
+    float: left;
+    margin-right: 20px;
+    position: relative;
+    top: -300px;
+}
+.azin1{
+    float: left;
+ left: -450px;
+    position: relative;
+    top: 70px;
+}
+.azin2{
+     float: left;
+    
+    position: relative;
+    top: -350px;
+    left: 99px;
+
+}
+
+.d{
+    color: #F26E25;
+    display: inline-block;
+    margin-left: 10px;
+}
+.e{
+    margin-right: 40px;
+}
+.ww{
+    direction: rtl;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0, 0, 0.08);
+     padding: 20px;
+    max-width: 450px;
+    margin-left: auto;
+    margin: 30px ;
+        margin-left: auto;
+}
+.f{
+color: #F26E25;
+display:  inline-block;
+margin-left: 20px;
+}
+.j{
+    margin-right: 40px;
+
+}
+.L{
+
+    direction: rtl;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0, 0, 0.08);
+     padding: 20px;
+    max-width: 450px;
+    margin: 30px ;
+        margin-left: auto;
+}
+.LL{
+color: #F26E25;
+display:  inline-block;
+margin-left: 20px;
+}
+.lll{
+    margin-right: 40px;
+}
+.u{
+    
+    direction: rtl;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0, 0, 0.08);
+     padding: 20px;
+    max-width: 450px;
+    margin: 30px ;
+    margin-left: auto;
+
+}
+.uu{
+color: #F26E25;
+display:  inline-block;
+margin-left: 20px;
+}
+.uuu{
+     margin-right: 40px;
+}
+.h{
+
+    direction: rtl;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0, 0, 0.08);
+     padding: 20px;
+    max-width: 450px;
+    margin: 30px ;
+  margin-left: auto;
+}
+.hh{
+color: #F26E25;
+display:  inline-block;
+margin-left: 20px;
+}
+.hhh{
+      margin-right: 40px;
+}
+.footer{
+    background-color: gray;
+    height: 350px;
+    direction: rtl;
+ 
+}
+.footerdiv{
+        
+}
