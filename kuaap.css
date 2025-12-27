@@ -123,12 +123,69 @@ margin-left: 20px;
 .hhh{
       margin-right: 40px;
 }
+
 .footer{
-    background-color: gray;
-    height: 350px;
     direction: rtl;
- 
+    background-color: darkgrey;
+    height: 400px;
 }
-.footerdiv{
-        
+
+.img1{
+margin-right: 40px;
+margin-top: 20px;
+}
+.img2{
+    margin-right: 40px;
+    
+}
+.img3{
+    margin-right: 40px;
+}
+.img4{
+    margin-right: 40px;
+}
+.img5{
+    margin-right: 700px;
+     position: relative;
+    top: -130px;
+    
+       
+}
+.img6{
+   position: relative;
+   right: 500px;
+    bottom: 70px;
+   
+    
+}
+.dd{
+    direction: ltr;
+}
+.cl{
+    position: relative;
+    bottom: 360px;
+    left: 200px;
+   
+    
+}
+.img7{
+    position: relative;
+    bottom: 350px;
+    left: 50px;
+}
+.goo{
+  position: relative;
+  right: 730px;
+  bottom: 170px;
+}
+.sh{
+    position: relative;
+
+    right: 720px;
+    bottom: 180px;
+}
+.qc{
+    position: relative;
+    right: 720px;
+    bottom: 170px;
 }
